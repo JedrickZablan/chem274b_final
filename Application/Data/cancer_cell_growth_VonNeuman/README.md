@@ -1,5 +1,5 @@
 # README for Application/Data/cancer_cell_growth_VonNeuman
-Path: ./Application/Data
+Path: ./Application/Data/cancer_cell_growth_VonNeuman
 # Chem 274B: Software Engineering Fundamentals for
 #               Molecular Sciences
 # Final project :  Design and C++ Implementation of General Purpose
