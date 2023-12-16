@@ -22,10 +22,10 @@ LIST OF SUBDIRECTORIES IN THIS DIRECTORY:
 - Source/ : This directory contains all the source code with the
         functionality implemented in C++ for this project
 		
-- Tests: Test programs used to test the functionalities implemented in
+- Tests/: Test programs used to test the functionalities implemented in
         the project
 		
-- Utils: Contains all the source files that implement utilities
+- Utils/: Contains all the source files that implement utilities
         
 LIST OF FILES IN THIS DIRECTORY:
 
