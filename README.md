@@ -34,3 +34,24 @@ LIST OF FILES IN THIS DIRECTORY:
 - Makefile: Makefile commands to compile C++ programs in the root directory.
 
 - FinalProject_Assessment.pdf: Responses for Part 2 and Part 3 of final project
+
+#Grading
+
+PART 1
+
+LO1: 
+LO2: 
+
+Did not write test for rules
+Implementing a cell data structure could've been more readable. a struct with one int state for example
+Rule could've also been implemented as a data structure
+
+
+PART 2
+
+LO1: 
+LO2: 
+
+Application building. 
+Makefiles and correct done efficiently
+Visualization working
