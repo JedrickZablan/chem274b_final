@@ -1,8 +1,5 @@
-# README 
-
-# Chem 274B: Software Engineering Fundamentals for
-#               Molecular Sciences
-# Final Project :  Design and C++ Implementation of General Purpose Cellular Automata Library. 
+# Chem 274B: Software Engineering Fundamentals for Molecular Sciences
+# Final Project:  Design and C++ Implementation of General Purpose Cellular Automata Library. 
 # Team Members: Sheyda Nazarian, Yingyin Yu, Jedrick Regala Zablan 
 # Date Created: 12/1/2023 
 
