@@ -2,10 +2,15 @@
 
 # Chem 274B: Software Engineering Fundamentals for
 #               Molecular Sciences
-# Final project :  Design and C++ Implementation of General Purpose
-#                 Cellular Automata Library. 
-# Team members: Sheyda Nazarian, Yingyin Yu,Jedrick Regala Zablan 
+# Final Project :  Design and C++ Implementation of General Purpose Cellular Automata Library. 
+# Team Members: Sheyda Nazarian, Yingyin Yu, Jedrick Regala Zablan 
 # Date Created: 12/1/2023 
+
+# Project Description
+
+This repository contains a comprehensive C++ library for Cellular Automata (CA) simulations, developed as part of the Chem 274B course. This group project showcases best practices in software engineering by designing and implementing a reusable CA library, a demonstration application using the library, and detailed analyses of the application outputs. My group successfully created an application that simulates the growth of cancer cells in tissue. The cancer starts from the center of the matrix and spreads outward to other cells using a simple model based on the Von Neumann neighborhood. This model does not account for tissue density, cell properties, or real-life cell-cell interactions. All source codes, documentation, and examples illustrating the library's capabilities are included. Additionally, the repository contains a PDF with a reflective analysis of the software development process, highlighting collaboration in cross-functional teams, algorithmic performance, and lessons learned. 
+
+# Directory Guide
 This directory is the root directory of this project.
 
 LIST OF SUBDIRECTORIES IN THIS DIRECTORY:
@@ -35,23 +40,3 @@ LIST OF FILES IN THIS DIRECTORY:
 
 - FinalProject_Assessment.pdf: Responses for Part 2 and Part 3 of final project
 
-#Grading
-
-PART 1
-
-LO1: 
-LO2: 
-
-Did not write test for rules
-Implementing a cell data structure could've been more readable. a struct with one int state for example
-Rule could've also been implemented as a data structure
-
-
-PART 2
-
-LO1: 
-LO2: 
-
-Application building. 
-Makefiles and correct done efficiently
-Visualization working
